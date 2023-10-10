@@ -1,4 +1,4 @@
-# Real Time Project
+# AWS Project
 
 _**Data Pipeline Design**_
 
